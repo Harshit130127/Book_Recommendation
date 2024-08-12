@@ -45,23 +45,16 @@ Scikit-learn: Library for machine learning tasks 🤖
 
 
 
-
-![image](https://github.com/user-attachments/assets/6babafec-6fee-481a-a666-f2fb70effab3)
-
+![Screenshot 2024-08-13 005923](https://github.com/user-attachments/assets/78d7946b-abed-41ae-a7e9-a4b6798837da)
 
 
-![image](https://github.com/user-attachments/assets/d583ec93-fb01-481a-94b0-19ef6fbcb0ae)
+![Screenshot 2024-08-13 010007](https://github.com/user-attachments/assets/bd838172-2242-4302-bfaa-4c673122a999)
 
 
-
-![image](https://github.com/user-attachments/assets/5a2b4011-f577-450b-97b7-9002a7414fb8)
-
-
-![image](https://github.com/user-attachments/assets/b009a74a-85b9-4a50-a57d-99ee33366cd9)
+![Screenshot 2024-08-13 010031](https://github.com/user-attachments/assets/aadc9449-9998-4017-8bf7-0d74121ab392)
 
 
+![Screenshot 2024-08-13 010050](https://github.com/user-attachments/assets/8ff3b565-f7a0-4145-9d35-0a26d129e722)
 
 
-
-
-
+![Screenshot 2024-08-13 010107](https://github.com/user-attachments/assets/70db76ff-c04d-43dd-b147-e0115de2e40c)
