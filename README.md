@@ -42,3 +42,26 @@ Integration Testing: None (no integration testing) 🚫
 NLTK: Natural Language Toolkit for text processing 🧠
 Pandas: Library for data manipulation and analysis 📊
 Scikit-learn: Library for machine learning tasks 🤖
+
+
+
+
+![image](https://github.com/user-attachments/assets/6babafec-6fee-481a-a666-f2fb70effab3)
+
+
+
+![image](https://github.com/user-attachments/assets/d583ec93-fb01-481a-94b0-19ef6fbcb0ae)
+
+
+
+![image](https://github.com/user-attachments/assets/5a2b4011-f577-450b-97b7-9002a7414fb8)
+
+
+![image](https://github.com/user-attachments/assets/b009a74a-85b9-4a50-a57d-99ee33366cd9)
+
+
+
+
+
+
+
