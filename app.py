@@ -3,8 +3,7 @@ from model.recommendation_model import recommend
 import pandas as pd
 import json
 import os
-from dotenv import load_dotenv
-load_dotenv()
+
 app = Flask(__name__)
 
 
@@ -69,14 +68,7 @@ def get_recommendations():
     else:
         return jsonify({'error': 'No genre provided'}), 400
     
-
-@app.route('/manifest.json')
-def manifest():
-    return app.send_static_file('manifest.json')
-
-@app.route('/service-worker.js')
-def service_worker():
-    return app.send_static_file('service-worker.js')    
+   
 
 if __name__ == '__main__':
     app.run(host= '0.0.0.0' , port=5000 ,debug=True)
